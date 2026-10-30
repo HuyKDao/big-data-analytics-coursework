@@ -7,5 +7,6 @@ Write-ups of the technical assignments I completed in **CIS 5450 Big Data Analyt
 | # | Project | Focus | Key tools |
 |---|---|---|---|
 | 2 | [Yelp Business & User Analytics with SQL](02-yelp-sql-analytics/) | Analytical SQL and text analysis | DuckDB SQL, NLTK |
+| 4 | [Hotel Booking Cancellation Prediction](04-hotel-cancellation-ml/) | Classical machine learning | scikit-learn, Spark ML |
 
 My course group project, which has full public code, is in [life-expectancy-forecasting](https://github.com/HuyKDao/life-expectancy-forecasting).
